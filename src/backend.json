@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "raEE73gJTrg7w3TEgFNJF6ok78l2": {
+        "type": "object",
+        "properties": {
+          "additional information": {"type": "string"},
+          "age": {"type": "string"},
+          "education": {"type": "string"},
+          "name": {"type": "string"}
+        },
+        "required": ["additional information", "age", "education", "name"]
+      },
+      "ssmRfku6qecyTsFxpV405vHwjch1": {
+        "type": "object",
+        "properties": {
+          "additional information": {"type": "string"},
+          "age": {"type": "string"},
+          "education": {"type": "string"},
+          "name": {"type": "string"}
+        },
+        "required": ["additional information", "age", "education", "name"]
+      }
+    },
+    "required": ["raEE73gJTrg7w3TEgFNJF6ok78l2", "ssmRfku6qecyTsFxpV405vHwjch1"]
+  }
+  
+  
